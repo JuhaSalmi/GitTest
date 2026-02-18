@@ -18,9 +18,9 @@
     <Object Type="Package">mappCockpit</Object>
   </Objects>
   <Configuration ModuleId="X20CP1685">
-    <AutomationRuntime Version="6.0.2" />
+    <AutomationRuntime Version="6.4.2" />
     <Build GccVersion="11.3.0" />
     <DefaultTargetMemory Tasks="UserROM" />
-    <Vc FirmwareVersion="6.0.0" />
+    <Vc />
   </Configuration>
 </Cpu>

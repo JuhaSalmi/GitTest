@@ -3,5 +3,6 @@
 <SwConfiguration CpuAddress="" xmlns="http://br-automation.co.at/AS/SwConfiguration">
   <TaskClass Name="Cyclic#4">
     <Task Name="Main" Source="Main.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="Program" Source="Program.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
 </SwConfiguration>
